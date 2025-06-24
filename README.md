@@ -4,3 +4,5 @@ Excel workbook - xfrmr loss calcs v1_1.xlsx - has example data for a toroid with
 Complex number calculations included.  
 Download the file, load your own data (S2P -> F S11 S22 R I) into the spreadsheet to calculate transformer loss/efficiency.  
 v1_1 eliminates irrelevant link to external data
+
+The Transformer Efficiency presentation given at the Pacificon 2024 Antenna Seminar is also provided.
